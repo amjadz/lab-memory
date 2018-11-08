@@ -11,5 +11,8 @@ public class BlankActivity extends AppCompatActivity {
         setContentView(R.layout.activity_blank);
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
     }
+
+
 }
